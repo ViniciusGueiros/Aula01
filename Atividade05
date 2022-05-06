@@ -1,0 +1,25 @@
+#print('Aula introdução ao Python')
+
+print('Esta é uma aula de programação')
+
+#print('Vimos que existem várias linguagens,')
+
+#print('como')
+
+#print('a linguagem Java!')
+
+print('A linguagem que estamos utilizando é')
+
+print('a linguagem Python')
+
+print('Nossa aula é na')
+
+#print('Infinity')
+
+#print('também conhecida como')
+
+print('infinity School')
+
+print('Bons Códigos!')
+
+#print('Esta linha será um comentário em breve!')
