@@ -1,0 +1,4 @@
+Calcule e apresente o produto 10 * 50
+OBS: Apresente duas soluções
+
+print(10*50)
