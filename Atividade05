@@ -23,3 +23,10 @@ print('infinity School')
 print('Bons Códigos!')
 
 #print('Esta linha será um comentário em breve!')
+
+
+FirstLine = "Meu nome é"
+Nome = "Vinicius"
+Sobrenome = "Gueiros"
+LastLine = "e esse é meu primeiro print em tela!"
+print(FirstLine, Nome, Sobrenome, LastLine)
