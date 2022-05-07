@@ -1,0 +1,8 @@
+Calcule e apresente a média entre os números 8, 9 e 7
+OBS: Apresente duas soluções
+
+a = 8 + 9 + 7
+b = a / 3
+print(b)
+
+print((8 + 9 + 7) / 3)
