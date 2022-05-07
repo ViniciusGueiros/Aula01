@@ -1,0 +1,11 @@
+Peçca nome e sobrenome do usuário e mostre na tela
+exemplo01
+nome = input('Digite seu nome e sobrenome:')
+print(nome)
+
+-------------------------------------
+exemplo02
+nome = input('Digite seu nome:')
+sobrenome = input('Digite seu sobrenome:')
+
+print(nome, sobrenome)
