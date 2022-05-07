@@ -1,0 +1,17 @@
+Peça dois números ao usuário e mostre os resultados de uma calculadora básica:
+1- Adição (+)
+2- Subtração (-)
+3- Multiplicação (*)
+4- Divisão (/)
+
+exemplo01
+numero01 = float(input('Digite o primeiro número:'))
+numero02 = float(input('Digite o segundo número:'))
+adicao = numero01 + numero02
+subtracao = numero01 - numero02
+multiplicacao = numero01 * numero02
+divisao = numero01 / numero02
+print ('A adição dos dois números é:', adicao)
+print ('A subtração dos dois números é:', subtracao)
+print ('A multiplicação dos dois números é:', multiplicacao)
+print ('A divisão dos dois números é:', divisao)
