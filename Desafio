@@ -1,0 +1,9 @@
+Utilizando os conhecimentos da aula de hoje, chegue no resultado abaixo:
+677.116.960-00
+
+parte01 = 677
+parte02 = 116
+parte03 = 960
+parte04 = 34
+print(parte01, parte02, parte03, sep='.', end="-")
+print(parte04)
