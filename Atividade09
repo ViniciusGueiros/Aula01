@@ -20,3 +20,12 @@ nota04 = int(input('nota 04:'))
 soma = (nota01 + nota02 + nota03 + nota03)
 
 print ((nota01 + nota02 + nota03 + nota03) / 4)
+
+----------------------------------------------
+exemplo03 - notas quebradas
+nota01 = float(input('nota 01:'))
+nota02 = float(input('nota 02:'))
+nota03 = float(input('nota 03:'))
+nota04 = float(input('nota 04:'))
+soma = (nota01 + nota02 + nota03 + nota03)
+print ((nota01 + nota02 + nota03 + nota03) / 4)
